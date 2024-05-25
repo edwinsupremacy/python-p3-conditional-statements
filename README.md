@@ -209,7 +209,7 @@ That's looking much more descriptive now!
 
 Finally, let's take a look at `finally`. Copy and paste the following code into
 the Python shell and test `divide()` with a variety of different arguments:
-
+dividr
 ```py
 def divide(num1, num2):
     try:
@@ -327,7 +327,7 @@ the preferred method for handling `switch/case` logic in Python.
 ## Instructions
 
 Time to get some practice! Write your code in the `lib` folder's
-`control_flow.py`. Run `pytest -x` to check your work. Your goal is to practice
+`control_flow.py`. Run `pytest -x` to check your workexit(). Your goal is to practice
 using control flow in Python to familiarize yourself with the syntax. There is a
 JavaScript version of the solution for each of these deliverables in the
 `js/index.js` file you can look at (but if you want an extra challenge, try
